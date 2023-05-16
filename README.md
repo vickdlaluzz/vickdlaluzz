@@ -10,8 +10,10 @@
     </h3>
 </div>
 <hr>
-<div id="currently_working">
-    <p align="left">
-        I am currently working with <strong>Thinkskink</strong> as a software developer using tools like:
-    </p>
-</div>
+
+> :office: I am currently working with <strong>Thinkskink</strong> as a software developer.
+ > 
+> :construction_worker: I'm looking to collaborate on backend development with java or node.js.
+ > 
+> :muscle: I am looking to get more involved to learn and improve in Devops
+ > 
