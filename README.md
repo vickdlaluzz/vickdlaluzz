@@ -19,6 +19,23 @@
 > :video_game: We can connect to play COD
 
 <div id="my_favorite_tools">
-    <h2> My favorite tools :toolbox:</h2>
+    <h2> Languages and toolbox :toolbox:</h2>
+    <div id="tools_icons" align="center">
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="java" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="java" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg" alt="java" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="java" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="java" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="java" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="java" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="java" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="java" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="java" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="java" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="java" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="java" width="50" height="50"/>
+    </div>
 </div>
 
