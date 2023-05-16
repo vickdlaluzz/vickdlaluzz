@@ -6,7 +6,7 @@
 </div>
 <hr>
 
-> :office: I am currently working with <strong>Thinkskink</strong> as a software developer.
+> :office: I am currently working with <strong>Thinkskink</strong> as a remote software developer.
  > 
 > :construction_worker: I'm looking to collaborate on backend development with java or node.js.
  > 
