@@ -12,3 +12,9 @@
 <div id="bagdes" align="center">
     <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Vickdelaluzz&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fvick_dlaluzz">
 </div>
+<hr>
+<div id="currently_working">
+    <p align="left">
+        I am currently working with <strong>Thinkskink</strong> as a software developer using tools like:
+    </p>
+</div>
