@@ -17,3 +17,9 @@
  > 
 > :muscle: I am looking to get more involved to learn and improve in Devops
  > 
+> :raised_hand: Looking for friends to speak English (I am trying to improve my English )
+ > 
+> :ear: Talk to me about development, music or call of duty
+ > 
+> :video_game: We can connect to play COD
+
